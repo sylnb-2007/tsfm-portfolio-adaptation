@@ -420,6 +420,8 @@ def build() -> None:
                         p.paragraph_format.line_spacing = 1.0
                         p.paragraph_format.space_after = Pt(0)
                         align = aligns[c_idx] if c_idx < len(aligns) else "left"
+                        if r_idx == 0:
+                            align = "left"
                         p.alignment = {
                             "right": WD_ALIGN_PARAGRAPH.RIGHT,
                             "center": WD_ALIGN_PARAGRAPH.CENTER,
