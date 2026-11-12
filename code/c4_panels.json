@@ -1,0 +1,38 @@
+[
+  {
+    "panel": "BM",
+    "n_dates": 2953,
+    "lora_ic": 0.0191,
+    "lora_nw_t": 3.63,
+    "ols_ic": 0.0112,
+    "ols_nw_t": 1.56,
+    "diff": 0.0078,
+    "diff_nw_t": 0.85,
+    "net_bps": -0.2,
+    "net_sharpe": -0.09
+  },
+  {
+    "panel": "OP",
+    "n_dates": 2953,
+    "lora_ic": 0.0055,
+    "lora_nw_t": 1.07,
+    "ols_ic": 0.0124,
+    "ols_nw_t": 1.85,
+    "diff": -0.0069,
+    "diff_nw_t": -0.81,
+    "net_bps": -1.72,
+    "net_sharpe": -0.78
+  },
+  {
+    "panel": "INV",
+    "n_dates": 2953,
+    "lora_ic": 0.0098,
+    "lora_nw_t": 1.99,
+    "ols_ic": 0.0102,
+    "ols_nw_t": 1.49,
+    "diff": -0.0004,
+    "diff_nw_t": -0.04,
+    "net_bps": -1.02,
+    "net_sharpe": -0.591
+  }
+]

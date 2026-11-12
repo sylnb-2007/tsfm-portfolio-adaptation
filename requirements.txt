@@ -1,0 +1,15 @@
+# Core analysis stack (pinned to the versions used for the reported results)
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib>=3.9
+lightgbm==4.7.0
+catboost==1.2.10
+
+# Required only for retraining / zero-shot inference (steps 5.3-5.4 of docs/REPRODUCE.md)
+torch==2.11.0
+transformers==5.22.1
+accelerate>=1.0
+einops>=0.8
+chronos-forecasting>=2.0

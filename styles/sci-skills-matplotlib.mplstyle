@@ -1,0 +1,26 @@
+figure.facecolor: white
+axes.facecolor: white
+axes.edgecolor: 0.20
+axes.labelcolor: 0.12
+axes.linewidth: 0.8
+axes.spines.top: False
+axes.spines.right: False
+axes.grid: False
+font.family: sans-serif
+font.sans-serif: Arial, DejaVu Sans, Noto Sans CJK SC
+font.size: 9
+axes.titlesize: 10
+axes.titleweight: semibold
+axes.labelsize: 9
+xtick.labelsize: 8
+ytick.labelsize: 8
+legend.fontsize: 8
+legend.frameon: False
+lines.linewidth: 1.8
+lines.markersize: 4.5
+errorbar.capsize: 2.5
+savefig.dpi: 300
+savefig.bbox: tight
+savefig.pad_inches: 0.04
+svg.fonttype: none
+pdf.fonttype: 42

@@ -1,0 +1,9 @@
+{
+  "h": 5,
+  "n_permutations": 500,
+  "observed_ic": 0.0087,
+  "null_mean": -0.0001,
+  "null_sd": 0.0039,
+  "null_q99": 0.0102,
+  "p_value": 0.022
+}

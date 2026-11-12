@@ -1,0 +1,9 @@
+{
+  "h": 5,
+  "ic_pooled": 0.0087,
+  "ic_solo": 0.0097,
+  "ic_diff_pooled_minus_solo": -0.0011,
+  "ic_diff_nw_t": -0.18,
+  "pred_rank_corr_mean": 0.7715,
+  "pred_abs_diff_mean": 0.061318
+}

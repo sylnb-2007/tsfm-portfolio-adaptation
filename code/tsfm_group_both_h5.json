@@ -1,0 +1,67 @@
+{
+  "mode": "group",
+  "norm": "both",
+  "context": 252,
+  "h": 5,
+  "start_year": 2015,
+  "n_pred_dates": 2953,
+  "ic_mean": 0.0052,
+  "ic_std": 0.2105,
+  "icir": 0.025,
+  "ic_days": 2948,
+  "schemes": {
+    "binary": {
+      "5bps": {
+        "days": 2951,
+        "turnover_per_rebalance": 1.515,
+        "gross_sharpe": -0.117,
+        "net_sharpe": -0.565,
+        "daily_gross_bps": -0.4,
+        "daily_cost_bps": 1.52
+      },
+      "10bps": {
+        "days": 2951,
+        "turnover_per_rebalance": 1.515,
+        "gross_sharpe": -0.117,
+        "net_sharpe": -1.014,
+        "daily_gross_bps": -0.4,
+        "daily_cost_bps": 3.03
+      },
+      "20bps": {
+        "days": 2951,
+        "turnover_per_rebalance": 1.515,
+        "gross_sharpe": -0.117,
+        "net_sharpe": -1.909,
+        "daily_gross_bps": -0.4,
+        "daily_cost_bps": 6.06
+      }
+    },
+    "rank": {
+      "5bps": {
+        "days": 2951,
+        "turnover_per_rebalance": 1.242,
+        "gross_sharpe": -0.011,
+        "net_sharpe": -0.477,
+        "daily_gross_bps": -0.03,
+        "daily_cost_bps": 1.24
+      },
+      "10bps": {
+        "days": 2951,
+        "turnover_per_rebalance": 1.242,
+        "gross_sharpe": -0.011,
+        "net_sharpe": -0.943,
+        "daily_gross_bps": -0.03,
+        "daily_cost_bps": 2.48
+      },
+      "20bps": {
+        "days": 2951,
+        "turnover_per_rebalance": 1.242,
+        "gross_sharpe": -0.011,
+        "net_sharpe": -1.873,
+        "daily_gross_bps": -0.03,
+        "daily_cost_bps": 4.97
+      }
+    }
+  },
+  "seconds": 319.7
+}
