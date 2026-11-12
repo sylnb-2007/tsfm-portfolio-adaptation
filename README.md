@@ -65,4 +65,4 @@ Code: MIT (`LICENSE`). Figures, documentation and result matrices: CC BY 4.0 (`L
 
 ## Citation
 
-If you use this code, please cite the article and this archive. The archived release is available at <https://doi.org/10.5281/zenodo.24162932>; machine-readable metadata are in `CITATION.cff`.
+If you use this code, please cite the article and this archive. The archived release is available at <https://doi.org/10.5281/zenodo.24162931>; machine-readable metadata are in `CITATION.cff`.

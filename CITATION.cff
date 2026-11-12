@@ -6,7 +6,7 @@ version: 1.0.1
 date-released: "2026-11-12"
 license: MIT
 repository-code: "https://github.com/sylnb-2007/tsfm-portfolio-adaptation"
-url: "https://doi.org/10.5281/zenodo.24162932"
+url: "https://doi.org/10.5281/zenodo.24162931"
 keywords:
   - time series foundation model
   - cross-sectional return prediction

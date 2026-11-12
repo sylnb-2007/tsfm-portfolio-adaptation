@@ -14,6 +14,6 @@ Suggested attribution:
 
 > Song, Y. (2026). *Zero-shot is enough: cost-aware evaluation of TSFM
 > adaptation on U.S. portfolios* [code and data].
-> https://doi.org/10.5281/zenodo.24162932
+> https://doi.org/10.5281/zenodo.24162931
 
 Note: the code itself is released under the MIT License (see `LICENSE`).
