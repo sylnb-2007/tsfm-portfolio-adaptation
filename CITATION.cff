@@ -2,11 +2,11 @@ cff-version: 1.2.0
 message: "If you use this code or the saved prediction matrices, please cite the article and this archived release."
 title: "Zero-shot is enough: cost-aware evaluation of TSFM adaptation on U.S. portfolios"
 abstract: "Code and saved result matrices for a cost-aware forecast evaluation of strict low-rank adaptation of Chronos-2 on 100 U.S. size-book-to-market portfolios, 2015-2026."
-version: 1.0.0
+version: 1.0.1
 date-released: "2026-11-12"
 license: MIT
 repository-code: "https://github.com/sylnb-2007/tsfm-portfolio-adaptation"
-url: "https://doi.org/[AUTHOR_INPUT_NEEDED: Zenodo DOI]"
+url: "https://doi.org/10.5281/zenodo.24162932"
 keywords:
   - time series foundation model
   - cross-sectional return prediction
